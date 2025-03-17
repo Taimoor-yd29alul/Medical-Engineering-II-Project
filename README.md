@@ -19,3 +19,7 @@ By the end of the project, you'll have developed a set of **ImageJ Plugins** tha
 ## Development Environment
 
 The coding aspect of the project will be done in **Java**, using **IntelliJ IDEA** as the development environment.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
