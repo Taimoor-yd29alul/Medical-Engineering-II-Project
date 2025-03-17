@@ -1,17 +1,21 @@
-# Source Code for Medical Engineering 2 - Final Project Summer Term 2024
+# Medical Engineering II Project
 
-To download this repository, you have two options:
+## Project Overview
 
-1. **Using the GitHub Interface**:
-   - Click on the green "Code" button.
-   - Select "Download ZIP".
+This project introduces fundamental image-processing techniques applicable across various fields. Designed for biomedical engineering students, it analyses cell images — a common image encountered in scientific research. Throughout the project, you’ll explore various image-processing techniques that are crucial for understanding and working with biological images.
 
-2. **Using the Command Line**:
-   - Run the following command:
+## Techniques Involved
 
-    ```bash
-    git clone git@github.com:mt2-erlangen/project_ss2024.git
-    ```
+The project will guide you through the following core image-processing methods:
 
-This repository contains all the necessary files and instructions for completing the final project for the Medical Engineering 2 course in the summer term of 2024.
-Writing and programming instructions can be found on [https://mt2-erlangen.github.io](https://mt2-erlangen.github.io)
+- **Basic Thresholding / Image Segmentation**
+- **Segmentation Evaluation**
+- **Otsu Segmentation**
+- **Primitive Edge Detection**
+- **Canny Edge Detection**
+
+By the end of the project, you'll have developed a set of **ImageJ Plugins** that can perform all of these operations.
+
+## Development Environment
+
+The coding aspect of the project will be done in **Java**, using **IntelliJ IDEA** as the development environment.
